@@ -1,0 +1,15 @@
+{
+  "name": "player_voting_app",
+  "version": "1.0.0",
+  "author": "James Gosbell",
+  "scripts": {
+    "go": "open http://localhost:3000; npm run server",
+    "start": "npm run server",
+    "server": "live-server public --host=localhost --port=3000 --middleware=./disable-browser-cache.js"
+  },
+  "private": true,
+  "devDependencies": {
+    "concurrently": "2.2.0",
+    "live-server": "https://github.com/acco/live-server/tarball/master"
+  }
+}
