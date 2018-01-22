@@ -10,7 +10,7 @@ window.Seed = (function () {
       description: 'Striker',
       url: '#',
       votes: generateVoteCount(),
-      submitterAvatarUrl: 'images/players/player.png',
+      submitterAvatarUrl: 'images/avatars/avatar.png',
       playerImageUrl: 'images/players/player.png',
     },
     {
@@ -19,7 +19,7 @@ window.Seed = (function () {
       description: 'Defender',
       url: '#',
       votes: generateVoteCount(),
-      submitterAvatarUrl: 'images/players/player.png',
+      submitterAvatarUrl: 'images/avatars/avatar.png',
       playerImageUrl: 'images/players/player.png',
     },
     {
@@ -28,7 +28,7 @@ window.Seed = (function () {
       description: 'Striker',
       url: '#',
       votes: generateVoteCount(),
-      submitterAvatarUrl: 'images/players/player.png',
+      submitterAvatarUrl: 'images/avatars/avatar.png',
       playerImageUrl: 'images/players/player.png',
     },
     {
@@ -37,7 +37,7 @@ window.Seed = (function () {
       description: 'Defender',
       url: '#',
       votes: generateVoteCount(),
-      submitterAvatarUrl: 'images/players/player.png',
+      submitterAvatarUrl: 'images/avatars/avatar.png',
       playerImageUrl: 'images/players/player.png',
     },
   ];
