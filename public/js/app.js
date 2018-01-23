@@ -35,7 +35,7 @@ class PlayerList extends React.Component {
                 description={player.description}
                 url={player.url}
                 votes={player.votes}
-                submitterAvatarUrl={player.submitterAvatarUrl}
+                dob={player.dob}
                 playerImageUrl={player.playerImageUrl}
                 onVote={this.handlePlayerUpVote}
             />
@@ -71,11 +71,7 @@ class Player extends React.Component {
                         <p>{this.props.description}</p>
                     </div>
                     <div className='extra'>
-                        <span>Submitted by:</span>
-                        <img
-                            className='ui avatar image'
-                            src={this.props.submitterAvatarUrl}
-                        />
+                        <span>Date of Birth:</span><span>{this.props.dob}</span>
                     </div>
                 </div>
             </div>

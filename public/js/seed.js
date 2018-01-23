@@ -10,8 +10,8 @@ window.Seed = (function () {
       description: 'Striker',
       url: '#',
       votes: generateVoteCount(),
-      submitterAvatarUrl: 'images/avatars/avatar.png',
-      playerImageUrl: 'images/players/player.png',
+      dob: '12/10/83',
+      playerImageUrl: 'images/players/brosque.png',
     },
     {
       id: 2,
@@ -19,8 +19,8 @@ window.Seed = (function () {
       description: 'Defender',
       url: '#',
       votes: generateVoteCount(),
-      submitterAvatarUrl: 'images/avatars/avatar.png',
-      playerImageUrl: 'images/players/player.png',
+      dob: '30/11/83',
+      playerImageUrl: 'images/players/carney.png',
     },
     {
       id: 3,
@@ -28,8 +28,8 @@ window.Seed = (function () {
       description: 'Striker',
       url: '#',
       votes: generateVoteCount(),
-      submitterAvatarUrl: 'images/avatars/avatar.png',
-      playerImageUrl: 'images/players/player.png',
+      dob: '9/1/85',
+      playerImageUrl: 'images/players/bobo.png',
     },
     {
       id: 4,
@@ -37,8 +37,8 @@ window.Seed = (function () {
       description: 'Defender',
       url: '#',
       votes: generateVoteCount(),
-      submitterAvatarUrl: 'images/avatars/avatar.png',
-      playerImageUrl: 'images/players/player.png',
+      dob: '12/4/94',
+      playerImageUrl: 'images/players/oneill.png',
     },
   ];
 
