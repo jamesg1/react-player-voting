@@ -4,7 +4,7 @@ class PlayerList extends React.Component {
     };
 
     componentDidMount() {
-        this.setState({ players: Seed.players });
+        this.setState({ players: MockApi.players });
     }
 
     handlePlayerUpVote = (playerId) => {

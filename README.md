@@ -1,4 +1,6 @@
-### Running the app
+### React Player Voting App
+
+This is a small example React application where users can vote for their favourite player. It is served via live-server.
 
 1. Ensure you have `npm` installed.
 

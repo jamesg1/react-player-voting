@@ -1,4 +1,4 @@
-window.Seed = (function () {
+window.MockApi = (function () {
   function generateVoteCount() {
     return Math.floor((Math.random() * 40) + 20);
   }
