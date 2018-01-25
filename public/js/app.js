@@ -71,7 +71,7 @@ class Player extends React.Component {
                         <p>{this.props.description}</p>
                     </div>
                     <div className='extra'>
-                        <span>Date of Birth:</span><span>{this.props.dob}</span>
+                        <p>Date of Birth: <span>{this.props.dob}</span></p>
                     </div>
                 </div>
             </div>

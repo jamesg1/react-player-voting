@@ -2,6 +2,8 @@
 
 This is a small example React application where users can vote for their favourite player. It is served via live-server.
 
+![Screenshot](https://s9.postimg.org/lflmnbhkf/screenshot.png)
+
 1. Ensure you have `npm` installed.
 
 Follow the instructions for your platform [here](https://github.com/npm/npm).
