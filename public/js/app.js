@@ -79,4 +79,4 @@ class Player extends React.Component {
     }
 }
 
-ReactDOM.render(<PlayerList />, document.getElementById('content'));
+ReactDOM.render(<PlayerList />, document.getElementById('app'));

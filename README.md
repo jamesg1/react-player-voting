@@ -3,7 +3,7 @@
 This is a small example React application where users can vote for their favourite player. It is served via live-server.
 
 ### Demo
-Checkout the [Codepen example](codepen.io/jamesg1/pen/aqWvvr).
+Checkout the [Codepen example](https://codepen.io/jamesg1/pen/aqWvvr).
 
 ### Usage
 
