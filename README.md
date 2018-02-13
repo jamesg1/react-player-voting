@@ -1,7 +1,7 @@
 ### React Player Voting App
 
-This is a small example React application where users can vote for their favourite player. It is served via live-server.
-
+This is a small example React application where users can vote for their favourite player. It is served via live-server. This is part of my [Full Stack React study](https://www.fullstackreact.com/).
+ 
 ### Demo
 Checkout the [Codepen example](https://codepen.io/jamesg1/pen/aqWvvr).
 
